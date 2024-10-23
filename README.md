@@ -71,7 +71,7 @@ Este snippet crea un pie de página con iconos de redes sociales y derechos de a
 3. Añade los snippets en el orden proporcionado en este README.
 4. Guarda el archivo y visualiza en tu navegador para ver el resultado.
 
-![Demostración de uso](https://imgur.com/czCjQQB)
+![Demostración de uso](https://i.imgur.com/czCjQQB.gif)
 
 ## Conclusión
 
